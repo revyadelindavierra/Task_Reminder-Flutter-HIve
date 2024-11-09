@@ -1,16 +1,10 @@
 # pengingat_tugas
-
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Output
+![alt text](https://github.com/revyadelindavierra/pengingat_tugas_hive/blob/main/Screenshot%202024-11-09%20140652.png?raw=true)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
