@@ -36,7 +36,8 @@ pengingat_tugas_hive/
 ## 📧 Contact
 For questions or feedback, reach out:
 - **Name**: Revy Adelinda Vierra
-- **GitHub**: [revyadelindavierra](https://github.com/revyadelindavierra)
+- **GitHub**: [Revy Adelinda Vierra](https://github.com/revyadelindavierra)
+- ***Linkedin***: [Revy Adelinda vierra](www.linkedin.com/in/revyvierra)
 
 ---
 
